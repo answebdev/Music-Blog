@@ -4,12 +4,12 @@
 
 This blog is a full-stack Express app that allows you to enter album information on any band or artist. Create new entries by submitting an artist, album title, album artwork (image URL), and track listing. You can also edit and delete your entries.
 
-This application uses Node.js and RESTful routes. All of the user's information persists using MongoDB as the database. Semantic UI is used for the design.
+This application uses Node.js and RESTful routes. MongoDB is used to store the user's information. Semantic UI is used for the design.
 
 # Technologies Used
 
-* Express.js
 * Node.js
+* Express.js
 * MongoDB
 * NPM packages: Body-Parser, EJS, Express, Express-Sanitizer, Method-Override, and Mongoose
 * Semantic UI
