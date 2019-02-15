@@ -25,6 +25,6 @@ https://tranquil-wildwood-64365.herokuapp.com/blogs
 
 # Screenshots
 
-![Screenshot 01](screenshots/music-blog-screenshot01.PNG "Home Page")
+![Screenshot 01](screenshots/music-blog-screenshot01.png "Home Page")
 
-![Screenshot 02](screenshots/music-blog-screenshot02.PNG "New Entry Page")
+![Screenshot 02](screenshots/music-blog-screenshot02.png "New Entry Page")
