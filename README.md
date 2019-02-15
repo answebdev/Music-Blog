@@ -19,12 +19,12 @@ This application uses Node.js and RESTful routes. All of the user's information 
 
 # Music-Blog Live Link
 
-Friend Finder is deployed to Heroku. Please check it out here:
+Music-Blog is deployed to Heroku. Please check it out here:
 
 https://tranquil-wildwood-64365.herokuapp.com/blogs
 
 # Screenshots
 
-![Screenshot 01](screenshots/music-blog-screenshot01.png "Home Page")
+![Screenshot 01](screenshots/music-blog-screenshot01.PNG "Home Page")
 
-![Screenshot 02](screenshots/music-blog-screenshot02.png "New Entry Page")
+![Screenshot 02](screenshots/music-blog-screenshot02.PNG "New Entry Page")
